@@ -13,4 +13,4 @@ jobs:
         with:
           python-version: '3.12'
       - name: run python File
-        run: : python app.py
+        run: python app.py
